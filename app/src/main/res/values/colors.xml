@@ -1,6 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <!-- colors indigo blue -->
+    <color name="colorPrimaryIB">#3F51B5</color>
+    <color name="colorPrimaryDarkIB">#303F9F</color>
+    <color name="colorPrimaryLightIB">#C5CAE9</color>
+    <color name="colorAccentIB">#448AFF</color>
+    <color name="colorPrimaryTextIB">#212121</color>
+    <color name="colorSecondaryTextIB">#757575</color>
+    <color name="colorIconsIB">#FFFFFF</color>
+    <color name="colorDividerIB">#BDBDBD</color>
+
+    <!-- Amber Indigo -->
+    <color name="primaryAI">#FFC107</color>
+    <color name="primary_darkAI">#FFA000</color>
+    <color name="primary_lightAI">#FFECB3</color>
+    <color name="accentAI">#536DFE</color>
+    <color name="primary_textAI">#212121</color>
+    <color name="secondary_textAI">#757575</color>
+    <color name="iconsAI">#212121</color>
+    <color name="dividerAI">#BDBDBD</color>
+
+    <!--Light Green Lime -->
+    <color name="primaryLL">#8BC34A</color>
+    <color name="primary_darkLL">#689F38</color>
+    <color name="primary_lightLL">#DCEDC8</color>
+    <color name="accentLL">#CDDC39</color>
+    <color name="primary_textLL">#212121</color>
+    <color name="secondary_textLL">#757575</color>
+    <color name="iconsLL">#212121</color>
+    <color name="dividerLL">#BDBDBD</color>
+
+    <!--Lime Amber -->
+    <color name="primaryLA">#CDDC39</color>
+    <color name="primary_darkLA">#AFB42B</color>
+    <color name="primary_lightLA">#F0F4C3</color>
+    <color name="accentLA">#FFC107</color>
+    <color name="primary_textLA">#212121</color>
+    <color name="secondary_textLA">#757575</color>
+    <color name="iconsLA">#212121</color>
+    <color name="dividerLA">#BDBDBD</color>
+
+    <!-- Red Deep Orange -->
+    <color name="primaryRO">#F44336</color>
+    <color name="primary_darkRO">#D32F2F</color>
+    <color name="primary_lightRO">#FFCDD2</color>
+    <color name="accentRO">#FF5722</color>
+    <color name="primary_textRO">#212121</color>
+    <color name="secondary_textRO">#757575</color>
+    <color name="iconsRO">#FFFFFF</color>
+    <color name="dividerRO">#BDBDBD</color>
+
+    <!-- Teal Orange-->
+    <color name="primaryTO">#009688</color>
+    <color name="primary_darkTO">#00796B</color>
+    <color name="primary_lightTO">#B2DFDB</color>
+    <color name="accentTO">#4CAF50</color>
+    <color name="primary_textTO">#212121</color>
+    <color name="secondary_textTO">#757575</color>
+    <color name="iconsTO">#FFFFFF</color>
+    <color name="dividerTO">#BDBDBD</color>
+
+    <!-- Yellow Indigo -->
+    <color name="primaryYI">#FFEB3B</color>
+    <color name="primary_darkYI">#FBC02D</color>
+    <color name="primary_lightYI">#FFF9C4</color>
+    <color name="accentYI">#536DFE</color>
+    <color name="primary_textYI">#212121</color>
+    <color name="secondary_textYI">#757575</color>
+    <color name="iconsYI">#212121</color>
+    <color name="dividerYI">#BDBDBD</color>
+
+    <!-- Brown Grey-->
+    <color name="primaryBG">#795548</color>
+    <color name="primary_darkBG">#5D4037</color>
+    <color name="primary_lightBG">#D7CCC8</color>
+    <color name="accentBG">#9E9E9E</color>
+    <color name="primary_textBG">#212121</color>
+    <color name="secondary_textBG">#757575</color>
+    <color name="iconsBG">#FFFFFF</color>
+    <color name="dividerBG">#BDBDBD</color>
 </resources>

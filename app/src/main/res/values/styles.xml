@@ -1,12 +1,28 @@
 <resources>
 
     <!-- Base application theme. -->
+    <!-- Indigo Blue Theme-->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorPrimary">@color/colorPrimaryIB</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkIB</item>
+        <item name="colorAccent">@color/colorAccentIB</item>
+        <item name="android:textColorPrimary">@color/colorPrimaryTextIB</item>
+        <item name="android:textColorSecondary">@color/colorSecondaryTextIB</item>
+        <item name="android:divider">@color/colorDividerIB</item>
     </style>
+
+    <style name="AppThemeIB" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryIB</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkIB</item>
+        <item name="colorAccent">@color/colorAccentIB</item>
+        <item name="android:textColorPrimary">@color/colorPrimaryTextIB</item>
+        <item name="android:textColorSecondary">@color/colorSecondaryTextIB</item>
+        <item name="android:divider">@color/colorDividerIB</item>
+    </style>
+
+
 
     <style name="AppTheme.NoActionBar">
         <item name="windowActionBar">false</item>
