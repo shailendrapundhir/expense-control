@@ -10,4 +10,5 @@
     <string name="set_budget">Set Budget</string>
     <string name="list_expenses">List Expenses</string>
     <string name="add_expense">Add Expense</string>
+    <string name="home">Home</string>
 </resources>

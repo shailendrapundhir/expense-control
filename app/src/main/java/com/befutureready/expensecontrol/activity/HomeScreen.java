@@ -1,4 +1,4 @@
-package com.befutureready.expensecontrol;
+package com.befutureready.expensecontrol.activity;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -12,6 +12,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.FrameLayout;
+
+import com.befutureready.expensecontrol.R;
 
 public class HomeScreen extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
@@ -40,6 +43,8 @@ public class HomeScreen extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
+
+        inflateWithHomeScreen();
     }
 
     @Override
@@ -94,5 +99,14 @@ public class HomeScreen extends AppCompatActivity
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
         return true;
+    }
+
+    private void inflateWithHomeScreen(){
+        FrameLayout containerLayout = (FrameLayout)findViewById(R.id.container_layout);
+
+    }
+
+    private void inflateWithFragment(){
+
     }
 }
